@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
-	protected String[] employees = {"Christophe Coenraets", "John Smith"};
+	protected String[] employees = {"IT WORKS!!", "John Smith"};
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
